@@ -36,3 +36,6 @@ The objective of this project is to design, develop, and launch a comprehensive 
 
 # Conclusion
 In conclusion, our e-commerce website not only strengthens our online presence but also positions us for sustained success in the digital marketplace. We are excited about the opportunities ahead and remain committed to delivering exceptional value to our customers.
+# OUT PUT
+![WhatsApp Image 2024-08-11 at 8 27 31 PM](https://github.com/user-attachments/assets/5b670821-943e-4903-8870-d8a826bee8ca)
+
